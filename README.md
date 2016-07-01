@@ -8,6 +8,10 @@
 
 The app counts the number of times a word appears in a sentence.
 
+## Heroku:
+
+View the app on heroku [here!] (https://honest-mountie-36645.herokuapp.com/)
+
 ## Setup/Installation Requirements
 
 * Clone this repo
